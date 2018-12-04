@@ -1,4 +1,4 @@
-# Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation
+# RareSim
 Coming soon!
 <p align="center">
   <img src="assets/RareSim.gif"/>
