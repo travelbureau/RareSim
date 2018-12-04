@@ -1,5 +1,5 @@
 # RareSim
-Coming soon!
+<b>Coming soon!</b>
 <p align="center">
   <img src="assets/RareSim.gif"/>
 </p>
@@ -57,3 +57,6 @@ If you get errors about nvidia-modprobe not being installed, install it by runni
 sudo apt-get install nvidia-modprobe
 ```
 and then restart your machine.
+
+## Getting the RareSim Docker Image
+<b>Coming soon</b>
