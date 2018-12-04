@@ -1,7 +1,9 @@
 # Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation
 Coming soon!
+<p align="center">
+  <img ![](assets/RareSim.gif)/>
+</p>
 
-![Alt Text](assets/RareSim.gif)
 
 This is the reference implementation for our paper:
 
