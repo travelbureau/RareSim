@@ -6,7 +6,7 @@ Coming soon!
 
 
 This is the reference implementation for our paper:
-
+<em><b>Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation</b></em>
 [PDF](https://arxiv.org/abs/1811.00145)
 
 [Matthew O'Kelly*](http://www.mokelly.net/), [Aman Sinha*](http://amansinha.org), [Hongseok Namkoong*](https://web.stanford.edu/~hnamk/), [John Duchi](http://stanford.edu/~jduchi/), [Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html)
