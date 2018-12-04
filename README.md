@@ -35,4 +35,26 @@ Requires:
 * A recent Nvidia GPU *e.g.* GTX980 or better.
 
 # Installation
-Coming soon.
+The docker image essentially packages all dependencies in a safe environment.  The scripts we provide will externally mount our source code, and our models, into the docker environment.
+
+Most source code for this project is in Python and so once the docker image is built we won't need any compiling.
+
+## Quickstart
+
+The following is all of the steps to build a docker image for `pytorch-dense-correspondence` from a fresh Ubuntu installation:
+
+1) Install [Docker for Ubuntu](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
+  - Make sure to `sudo usermod -aG docker your-user` and then not run below docker scripts as `sudo`
+2) Install [`nvidia-docker`](https://github.com/NVIDIA/nvidia-docker). Make sure to use `nvidia-docker2` not `nvidia-docker1`.
+```
+sudo apt-get install -y nvidia-docker2
+```
+You can test that your nvidia-docker installation is working by running
+```
+nvidia-docker run --rm nvidia/cuda nvidia-smi
+```
+If you get errors about nvidia-modprobe not being installed, install it by running
+```
+sudo apt-get install nvidia-modprobe
+```
+and then restart your machine.
