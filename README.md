@@ -43,8 +43,7 @@ Most source code for this project is in Python and so once the docker image is b
 
 The following is all of the steps to build a docker image for `pytorch-dense-correspondence` from a fresh Ubuntu installation:
 
-1) Install [Docker for Ubuntu](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
-  - Make sure to `sudo usermod -aG docker your-user` and then not run below docker scripts as `sudo`
+1) Install [Docker for Ubuntu](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/). Make sure to `sudo usermod -aG docker your-user` and then not run below docker scripts as `sudo`
 2) Install [`nvidia-docker`](https://github.com/NVIDIA/nvidia-docker). Make sure to use `nvidia-docker2` not `nvidia-docker1`.
 ```
 sudo apt-get install -y nvidia-docker2
