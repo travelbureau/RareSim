@@ -1,2 +1,4 @@
 # RareSim
-Code for https://arxiv.org/abs/1811.00145
+![Alt Text](assets/RareSim.gif)
+Coming soon!
+This repository will contain the code for https://arxiv.org/abs/1811.00145
