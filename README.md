@@ -39,7 +39,7 @@ The docker image essentially packages all dependencies in a safe environment.  T
 
 Most source code for this project is in Python and so once the docker image is built we won't need any compiling.
 
-## Quickstart
+## Docker and Nvidia-Docker
 
 The following is all of the steps to build a docker image for `pytorch-dense-correspondence` from a fresh Ubuntu installation:
 
