@@ -4,3 +4,9 @@
 
 Coming soon!
 This repository will contain the code for https://arxiv.org/abs/1811.00145
+
+# Installation
+Requires:
+* docker
+* nvidia-docker2
+* A recent Nvidia GPU *e.g.* GTX980 or better.
