@@ -60,3 +60,8 @@ and then restart your machine.
 
 ## Getting the RareSim Docker Image
 <b>Coming soon</b>
+
+# License
+Copyright © Aman Sinha, Matthew O'Kelly, Hongseok Namkoong 2018. All rights reserved.
+
+This code is provided under the Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license which allows for non-commercial use only. For any other use of the software not covered by the terms of this licence, please contact the authors.
